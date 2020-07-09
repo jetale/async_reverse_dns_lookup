@@ -1,10 +1,10 @@
 # async_reverse_dns_lookup
 Python to script to perform reverse DNS lookup asynchronously
 
-TODO - Script crashing on lower powered CPU's, Make more user friendly
+**TODO** - > Script crashing on lower powered CPU's. Still in development
 
 
-The script works as follows -
+**The script works as follows** -
 
 1> User specifies country code to scan that country's IPv4 range
 
