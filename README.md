@@ -8,7 +8,7 @@ Python to script to perform reverse DNS lookup asynchronously
 
 1> User specifies country code to scan that country's IPv4 range
 
-2> Script takes input from ip_location_db.csv file. This file contains ipv4 range allocations with their respective country codes
+2> Script takes input from `ip_location_db.csv` file. This file contains ipv4 range allocations with their respective country codes
 
 3> Then the script converts the ip ranges to list of ip addresses
 
