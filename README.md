@@ -1,7 +1,7 @@
 # async_reverse_dns_lookup
 Python to script to perform reverse DNS lookup asynchronously
 
-**TODO** - > Script crashing on lower powered CPU's. Still in development
+**TODO** - ` #Script crashing on lower powered CPU's. #Still in development`
 
 
 **The script works as follows** -
